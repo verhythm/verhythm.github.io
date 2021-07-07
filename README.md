@@ -1,1 +1,1 @@
-# verhythm
+# Verhythm Studio
