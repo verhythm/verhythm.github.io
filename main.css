@@ -12,6 +12,16 @@
     }
   }
 
+        ::-moz-selection { /* Code for Firefox */
+        background: #A1DDFF;
+        color: white;
+        }
+
+        ::selection {
+        background: #A1DDFF;
+        color: white;
+        }
+
   /** cover.css **/
   /*
     * Globals
